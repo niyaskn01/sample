@@ -44,7 +44,7 @@ function Home() {
         }}
         variant='h3'
       >
-        Welcome to the home page! This is a simple website!!!
+        Welcome to the home page! This is a sample website!!!
       </Typography>
       <Box
         sx={{
